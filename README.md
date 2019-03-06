@@ -1,6 +1,6 @@
 # react-cli-2(master branch)
 > [create-react-app@2.x.x](https://facebook.github.io/create-react-app/)  
-> CRA@2.x.x 默认支持css或scss module，.module.scss或者.module.css的样式文件  
+> CRA@2.x.x 默认支持css或scss module，.module.scss或者.module.css的样式文件，支持样式文件切分  
 
 ## Branch list
 > 1、[master](https://github.com/jekorx/react-cli-2/tree/master)，主分支，默认分支，基础使用  
