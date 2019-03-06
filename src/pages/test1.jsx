@@ -1,4 +1,5 @@
 import React, { PureComponent } from 'react'
+import styles from '@styles/test1.module.scss'
 
 export default class Test1 extends PureComponent {
   state = {
@@ -25,7 +26,7 @@ export default class Test1 extends PureComponent {
     return (
       <div>
         <h6>test1</h6>
-        <p>{this.state.date.toLocaleString()}</p>
+        <p className={styles.test1}>{this.state.date.toLocaleString()}</p>
       </div>
     )
   }
