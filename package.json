@@ -16,8 +16,8 @@
     "mobx-react": "^5.4.3",
     "prop-types": "^15.7.2",
     "qs": "^6.6.0",
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
     "react-loadable": "^5.5.0",
     "react-router-dom": "^4.3.1"
   },
@@ -36,9 +36,8 @@
   },
   "proxy": "http://192.168.0.11",
   "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
   ]
 }
